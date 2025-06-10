@@ -1,2 +1,0 @@
-git and github 3 created sucessfully
-This is test.3 txt
